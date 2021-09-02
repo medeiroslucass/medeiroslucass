@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there im Lucas :)
+-💻 I'm currently working on DETRAN-AL
+-🌎 How to reach me:
+<div>
+<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+</div>
 <div>
   <a href="https://github.com/medeiroslucass">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medeiroslucass&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
