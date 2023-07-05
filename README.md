@@ -1,5 +1,4 @@
 ### Hi there im Lucas :)
--💻 I'm currently working on Join Tecnologia
 
 -🌎 How to reach me:
 <div>
